@@ -1,0 +1,6 @@
+token=NDkyOTA2MDc5MzYyMjIwMDQy.DodOHQ.ISbGHKW_s9Dirci4gjvK5IbZ-3k
+owner=421210436646731776
+prefix=6
+game=Tybe 6help
+stayinchannel=true
+songinstatus=true
